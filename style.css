@@ -24,7 +24,7 @@ body{
   }
 
 @media screen (min-width: 600px){
-   .allimage{
+   .allimg{
       height:300px;
-   } 
+      width:260px;   } 
 }
