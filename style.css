@@ -1,4 +1,5 @@
-* {
+@media screen and (max-width: 481px){
+    * {
     font-family:  Arial, sans-serif, Arial, sans-serif;
     color: #EBEBEB;
     
@@ -22,3 +23,4 @@ body{
   li{
     line-height: 22px;
   }
+}
